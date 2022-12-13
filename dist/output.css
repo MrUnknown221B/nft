@@ -983,8 +983,8 @@ body{
 
 .cardd{
   background: url('../dist/cute.png');
-  background-repeat: no-repeat;
-  background-size: auto;
+  background-repeat: no-repeat ;
+  background-size: cover ;
 }
 
 .hover\:bg-black:hover {
